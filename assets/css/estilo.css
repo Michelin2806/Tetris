@@ -1,0 +1,42 @@
+.imagen{
+    display: table;
+    margin: auto auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height: 40%;
+    width: 40%;
+
+}
+.col-12{
+    color: white;
+}
+.titulo{
+    color: rgb(248, 241, 178);
+}
+.titulo-color{
+   
+    display: table;
+    margin: auto;
+    text-align: center;
+    color: rgb(248, 241, 178);
+
+}
+.imagen-color{
+    display: table;
+    margin: auto auto;
+    margin-top: 3%;
+    margin-bottom: 1%;
+    height: 40%;
+    width: 40%;
+
+}
+footer{
+    display: table;
+    margin-top: 5%;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(77, 13, 129);
+    color: white;
+    text-align: center;
+    padding-top: 1.5%;
+}
